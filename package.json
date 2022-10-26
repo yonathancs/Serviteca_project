@@ -1,0 +1,15 @@
+{
+  "name": "serviteca",
+  "version": "1.0.0",
+  "description": "Serviteca que ofrece diferentes servicios para vehiculos",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Equipo 6 mision tic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  }
+}
